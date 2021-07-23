@@ -16,8 +16,8 @@ exports.handler = function (e, ctx, cb) {
   var payload = {
     messages: [
       {
-			"type":"text",
-			"text":"郵便ポストに何か届いたよ！😁"
+        "type":"text",
+        "text":"郵便ポストに何か届いたよ！😁"
       }
     ],
   };
